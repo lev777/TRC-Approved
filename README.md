@@ -9,6 +9,7 @@ Current
 - Pallas
 - MPO
 - Record Industry Haarlem
+- Precision Canada
 
 Past
 
