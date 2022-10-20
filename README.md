@@ -24,5 +24,5 @@ List of TRC approved guys
 - A. Golden
 - Kevin Gray
 - Heino Leja
-- RKS
+- RKS@Sterling
 - Greg@FT
