@@ -14,6 +14,7 @@ Current
 Past
 
 - SRC
+- Terre Haute
 
 List of TRC approved guys
 
