@@ -7,9 +7,12 @@ List of TRC approved plants
 - QRP 
 - Pallas
 
+
 List of TRC approved guys
 
 - BG
 - CB
 - Miles
-
+- Sean Magee
+- A. Golden
+- Kevin Gray
