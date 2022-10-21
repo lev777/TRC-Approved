@@ -12,11 +12,15 @@ Current
 - Precision Canada
 
 Past
+- Columbia Pitman
+- DADC Terre Haute
+- Foon
+- Monarch
+- Presswell
+- RCA Camden
+- SRC 
 
-- SRC
-- Terre Haute
-
-List of TRC approved guys
+List of TRC approved people
 
 - BG
 - CB
