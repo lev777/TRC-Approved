@@ -31,3 +31,8 @@ List of TRC approved people
 - Heino Leja
 - RKS@Sterling
 - Greg@FT
+
+List of TRC avoid plants
+
+
+List of TRC approved people
