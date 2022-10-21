@@ -35,4 +35,4 @@ List of TRC approved people
 List of TRC avoid plants
 
 
-List of TRC approved people
+List of TRC avoid people
