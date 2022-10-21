@@ -33,6 +33,6 @@ List of TRC approved people
 - Greg@FT
 
 List of TRC avoid plants
-
+- BMG
 
 List of TRC avoid people
