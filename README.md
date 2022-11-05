@@ -34,5 +34,6 @@ List of TRC approved people
 
 List of TRC avoid plants
 - BMG
+- United
 
 List of TRC avoid people
